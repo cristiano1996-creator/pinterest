@@ -1,2 +1,0 @@
-# pinterest
-landing page
